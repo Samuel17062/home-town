@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+}
+#htn{
+    background-image: url(https://cdn.budgetyourtrip.com/images/photos/headerphotos/large/brazil_forteleza.jpg);
+    background-size: cover;
+    height: 343px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: ce
+}
