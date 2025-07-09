@@ -1,12 +1,39 @@
+*{
+   ghjhgmoutline: 2px solid limegreen;
+}
+
 body{
     margin: 0%;
 }
 #htn{
-    background-image: url(https://cdn.budgetyourtrip.com/images/photos/headerphotos/large/brazil_forteleza.jpg);
+    background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77767-Fortaleza-And-Vicinity.jpg);
     background-size: cover;
     height: 343px;
-    padding: 0px;
+    padding: 0px 200px;
     display: flex;
     justify-content: center;
-    align-items: ce
+    align-items: center;
+    background-position:50% 70%;
+    text-align: center;
 }
+
+#bone{
+    background-color:#00b4d8;
+    border-radius: 10px;
+}
+
+
+#btwo{
+    background-color:#38b000;
+    border-radius: 10px;
+    padding: 10px;
+}
+/*
+#00b4d8 blue 
+
+
+#38b000 green
+
+
+
+*/
