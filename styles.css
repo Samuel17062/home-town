@@ -34,6 +34,16 @@ body{
 #logo{
     max-width: 445px;
 }
+
+#bold{
+    font-weight: bolder;
+}
+
+.img-size{
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
 /*
 #00b4d8 blue 
 
