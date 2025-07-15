@@ -1,5 +1,5 @@
 *{
-   ghjhgmoutline: 2px solid limegreen;
+   /*outline: 2px solid limegreen;*/
 }
 
 body{
@@ -20,6 +20,8 @@ body{
 #bone{
     background-color:#00b4d8;
     border-radius: 10px;
+    max-width: 234px;
+    margin: 0 auto;
 }
 
 
@@ -27,6 +29,10 @@ body{
     background-color:#38b000;
     border-radius: 10px;
     padding: 10px;
+}
+
+#logo{
+    max-width: 445px;
 }
 /*
 #00b4d8 blue 
