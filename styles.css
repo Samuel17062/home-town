@@ -44,12 +44,13 @@ body{
     border-radius: 50%;
     height: 100px;
 }
+
+#aof{
+    display: flex;
+    flex-direction: row;
+}
 /*
 #00b4d8 blue 
 
 
 #38b000 green
-
-
-
-*/
