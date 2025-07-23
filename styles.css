@@ -1,11 +1,12 @@
-*{
-   /*outline: 2px solid limegreen;*/
+* {
+    /*outline: 2px solid limegreen;*/
 }
 
-body{
+body {
     margin: 0%;
 }
-#htn{
+
+#htn {
     background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77767-Fortaleza-And-Vicinity.jpg);
     background-size: cover;
     height: 343px;
@@ -13,42 +14,57 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-position:50% 70%;
+    background-position: 50% 70%;
     text-align: center;
 }
 
-#bone{
-    background-color:#00b4d8;
+#bone {
+    background-color: #00b4d8;
     border-radius: 10px;
     max-width: 234px;
     margin: 0 auto;
 }
 
 
-#btwo{
-    background-color:#38b000;
+#btwo {
+    background-color: #38b000;
     border-radius: 10px;
     padding: 10px;
 }
 
-#logo{
+#logo {
     max-width: 445px;
 }
 
-#bold{
+#bold {
     font-weight: bolder;
+    margin-top: 0px;
 }
 
-.img-size{
+.img-size {
     width: 100px;
     border-radius: 50%;
     height: 100px;
 }
 
-#aof{
+#aof {
     display: flex;
     flex-direction: row;
+    justify-content:space-evenly;
 }
+
+.center{
+    flex-grow: 1;
+    flex-basis: 0px;
+    flex-shrink: 1000000000000000;
+}
+
+#flag{
+    background-color:   yellowgreen;
+    text-align: center;
+     
+}
+
 /*
 #00b4d8 blue 
 
