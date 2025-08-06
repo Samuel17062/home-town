@@ -72,7 +72,12 @@ body {
     background-color: #00b4d8;
     padding: 30px;
     border-radius: 20px;
-    box-shadow: 0px 10px black; 
+    box-shadow: 0px 10px black;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+
 }
 
 #card{
@@ -81,6 +86,12 @@ body {
 
 #me {
     border-radius: 20px;
+    display: inline;
+}
+
+#flex{
+    text-align: center;
+    font-size: larger;
 }
 /*
 #00b4d8 blue 
